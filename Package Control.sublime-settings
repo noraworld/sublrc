@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BlockCursorEverywhere",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Handlebars",
+		"Material Theme",
+		"OmniMarkupPreviewer",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Predawn",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Terminal",
+		"termX",
+		"Theme - Augmented Reaction",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/jlangston/BlockCursorEverywhere.git"
+	]
+}

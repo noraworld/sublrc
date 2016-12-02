@@ -1,0 +1,16 @@
+[
+
+  {
+    "keys": ["super+q"],
+    "command": "unbound"
+  },
+
+  {
+    "keys": ["super+shift+i"],
+    "command": "reindent",
+    "args": {
+      "single_line": false
+    }
+  },
+
+]
