@@ -17,7 +17,7 @@ I have no idea about Windows and Linux. Please tell me if you know!
 
 ## Description
 ### Preferences
-File name: `Preferences.sublime-settings`. This is the main settings file. Written about genetic settings.
+File name: `Preferences.sublime-settings`. This is the main settings file. Written about generic settings.
 
 ### Default Keymap
 File name: `Default (OSX).sublime-keymap`. The customized sublime keymap for Mac. The keymaps of this file override default keymaps.
@@ -29,7 +29,7 @@ File name: `Package Control.sublime-settings`. The installed packages, themes an
 File name: `Distraction Free.sublime-settings`. This is the settings for Distraction Free Mode. See [Distraction Free Mode](https://www.sublimetext.com/docs/3/distraction_free.html) for more information.
 
 ### Languages
-File name: `LANGUAGE_NAME.sublime-settings` like `HTML.sublime-settings`. These files added automatically from `View -> Syntax -> Open all with current extension as...`. By seleting a language, the file whose filename extension is same as active tab's file always opens with selected language syntax.
+File name: `LANGUAGE_NAME.sublime-settings` like `HTML.sublime-settings`. These files added automatically from `View -> Syntax -> Open all with current extension as...`. By selecting a language, the file whose filename extension is same as active tab's file always opens with selected language syntax.
 
 ### MacTerminal
 File name: `MacTerminal.sublime-settings`. This is the settings for MacTerminal. But I maybe delete this package... x(
