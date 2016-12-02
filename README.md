@@ -2,6 +2,9 @@
 Sublrc, short for Sublime run command, is my personal Sublime Text settings.  
 Sublime Text is a GUI-based text editor. See [official site](https://www.sublimetext.com) for more information.
 
+## Version
+Sublime Text 3
+
 ## Location
 The user settings files of Sublime Text 3 lie the following location.
 
