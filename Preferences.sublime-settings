@@ -7,7 +7,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"drag_text": false,
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,
@@ -35,6 +35,7 @@
 		"OmniMarkupPreviewer",
 		"SideBarEnhancements",
 		"Terminal",
+		"termX",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -57,7 +58,7 @@
 	"show_full_path": false,
 	"smart_indent": true,
 	"tab_size": 2,
-	"theme": "itg.flat.dark.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": "user"
