@@ -9,11 +9,12 @@ Sublime Text 3
 The user settings files of Sublime Text 3 lie the following location.
 
 * Mac: `/Users/YOUR_USERNAME/Library/Application Support/Sublime Text 3/Packages/User`
+* Ubuntu: `/home/YOUR_USERNAME/.config/sublime-text-3/Packages/User`
 
 **NOTICE:** You probably need a backslash before each space when pasting on your terminal.  
 e.g. `Application Support` => `Application\ Support`
 
-I have no idea about Windows and Linux. Please tell me if you know!
+I have no idea about Windows. Please tell me if you know!
 
 ## Description
 ### Preferences
