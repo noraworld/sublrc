@@ -7,7 +7,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"drag_text": false,
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,
@@ -22,7 +22,7 @@
 		"no_round",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
