@@ -1,13 +1,16 @@
-# This directory has two empty directories
+# It is most likely to include content about the package
+# This directory had two empty directories on my MacBook Air
 OmniMarkupPreviewer/
 
-# This directory has a very long JSON file
+# It is most likely to have cache
+# This directory had a very long JSON file on my MacBook Air
 Package Control.cache/
 
 # This is a certificate file
 Package Control.merged-ca-bundle
 
-# This was an empty file on my MacBook Air, but I believe it should be ignored
+# It is most likely to be a certificate file
+# This was an empty file on my MacBook Air
 Package Control.user-ca-bundle
 
 # This is a certificate file
