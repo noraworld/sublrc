@@ -1,5 +1,14 @@
-OmniMarkupPreviewer/             # has two empty directories
-Package Control.cache/           # has a very long JSON file
-Package Control.merged-ca-bundle # is a certificate file
-Package Control.user-ca-bundle   # was an empty file on my MacBook Air, but should be ignored
-oscrypto-ca-bundle.crt           # is a certificate file
+# This directory has two empty directories
+OmniMarkupPreviewer/
+
+# This directory has a very long JSON file
+Package Control.cache/
+
+# This is a certificate file
+Package Control.merged-ca-bundle
+
+# This was an empty file on my MacBook Air, but I believe it should be ignored
+Package Control.user-ca-bundle
+
+# This is a certificate file
+oscrypto-ca-bundle.crt
